@@ -1,0 +1,21 @@
+li{
+  list-style: none;
+}
+ul{
+  width: 600px;
+  height: 400px;
+}
+
+li{
+  float: left;
+  width: 150px;
+  height: 198px;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+
+.a1{
+  width: 400px;
+}
