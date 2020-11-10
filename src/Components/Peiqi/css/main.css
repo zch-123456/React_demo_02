@@ -1,0 +1,21 @@
+.main{
+  color: aqua;
+}
+.a1{
+  float: left;
+}
+li{
+  position: relative;
+  width: 500px;
+  list-style: none;
+  border: 1px solid gray;
+}
+#p1{
+  margin-left: 40px ;
+  font-size: 20px;
+}
+.btn{
+  position: absolute;
+  right: 10px;
+  top: 2px;
+}
